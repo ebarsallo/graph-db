@@ -1,4 +1,4 @@
-# graph-db-dockers (on hold)
+# graph-db-dockers (on)
 Dockers related to Graph Databases (Hadoop, HBase, Titan, etc.)
 
 ###Docker related
